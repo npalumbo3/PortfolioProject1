@@ -10,21 +10,31 @@ var op1, op2, op3;
 switch (rand1) {
 
     case 0 :
-
         op1 = "Italy";
-    
         break;
 
     case 1 :
-
         op1 = "Ireland";
-
         break;
 
     case 2 :
-        
         op1 = "Mexico";
+        break;
 
+}
+
+switch (rand2) {
+    
+    case 0 : 
+        op2 = "JetBlue";
+        break;
+
+    case 1 :
+        op2 = "Delta";
+        break;
+
+    case 2 :
+        op2 = "United";
         break;
 
 }
