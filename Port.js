@@ -5,15 +5,26 @@ rand1 = Math.floor(Math.random()*3);
 rand2 = Math.floor(Math.random()*3);
 rand3 = Math.floor(Math.random()*3);
 
+var op1, op2, op3;
+
 switch (rand1) {
+
     case 0 :
 
-    console.log("What up fam");
-    break;
+        op1 = "Italy";
+    
+        break;
 
-    default:
-        console.log('What are you doing in my swamp');
+    case 1 :
+
+        op1 = "Ireland";
+
+        break;
+
+    case 2 :
+        
+        op1 = "Mexico";
+
+        break;
 
 }
-
-
