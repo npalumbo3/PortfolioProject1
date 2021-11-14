@@ -55,6 +55,6 @@ switch (rand3) {
 
 }
 
-console.log(`In ${op3} you will be flying ${op2} to ${op3}. Enjoy the trip!`);
+console.log(`In ${op3} you will be flying ${op2} to ${op1}. Enjoy the trip!`);
 
 
