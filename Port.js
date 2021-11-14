@@ -52,5 +52,9 @@ switch (rand3) {
     case 2 :
         op3 = "February";
         break;
-        
+
 }
+
+console.log(`In ${op3} you will be flying ${op2} to ${op3}. Enjoy the trip!`);
+
+
